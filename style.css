@@ -1,0 +1,33 @@
+.container-fluid {
+    background:  gray;
+    outline: .1px double black;
+    padding: 5%;
+ }
+
+ h1{
+     text-align: center
+     
+ }
+ h2{
+     text-align: center
+ }
+
+
+
+ .jumbotron{
+     align-self: center;
+     background-image: url("aliens.jpg");
+     color: white
+     
+     
+
+     
+ }
+
+ #body{
+     background-color: dimgray
+ }
+
+ .btn {
+     background-color: red
+ }
